@@ -22,4 +22,4 @@
 
 # Encontros 
 
-* Ditongo: é o encontro de uma vogal (maior tonicidade) e semivogal (menor tonicidade).
+* Ditongo: é o encontro de uma vogal (maior tonicidade) e semivogal (menor tonicidade) em uma mesma sílaba.
