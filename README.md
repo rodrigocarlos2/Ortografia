@@ -29,3 +29,5 @@
 # Etimologia
 
 * É o estudo da origem e evolução das palavras.
+
+* Algumas separações de sílabas podem trazer uma armadilha como subdelegado, sublinhar, abdicar, abrupto.
