@@ -10,5 +10,4 @@
 
 > Princesa (título)
 
-
 > Realeza (substantivo abstrato)
