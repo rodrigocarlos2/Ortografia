@@ -25,3 +25,7 @@
 * Ditongo: é o encontro de uma vogal (maior tonicidade) e semivogal (menor tonicidade) em uma mesma sílaba.
 
 * Tritongo: duas semivogais e uma vogal em uma mesma sílaba.
+
+# Etimologia
+
+* É o estudo da origem e evolução das palavras.
