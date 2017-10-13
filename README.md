@@ -16,6 +16,6 @@
 
 > Marquesa, baronsa, duquesa, japonesa, milanesa, chinesa, princesa, entre outros.
 
-* Eza voltado para substantivos abstratos (substantivos que dependem de outros para existirem).
+* Eza voltado para substantivos abstratos (substantivos que dependem de outros para existirem e que não tem existência física).
 
 > Grandeza, esperteza, miudeza, curteza, beleza, entre outros.
