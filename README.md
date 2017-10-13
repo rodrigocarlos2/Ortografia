@@ -11,3 +11,7 @@
 > Princesa (título)
 
 > Realeza (substantivo abstrato)
+
+* Esa é voltado para títulos e origens.
+
+> Marquesa, baronsa, duquesa, japonesa, milanesa, chinesa, princesa, entre outros.
