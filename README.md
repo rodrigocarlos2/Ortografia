@@ -12,6 +12,8 @@
 
 > Realeza (substantivo abstrato)
 
-* Esa é voltado para títulos e origens.
+* Esa voltado para títulos e origens.
 
 > Marquesa, baronsa, duquesa, japonesa, milanesa, chinesa, princesa, entre outros.
+
+* Eza voltado para substantivos abstratos (substantivos que dependem de outros para existirem).
